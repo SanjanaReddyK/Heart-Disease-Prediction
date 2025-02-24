@@ -17,7 +17,7 @@ Overall, this project demonstrates the potential of SVM classifiers for heart di
 research is needed to address the limitations of the approach, such as the reliance on standardized data and 
 assumptions of linear separability. 
 
-#Input dataset: 
+# Input dataset: 
 https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/ 
 The processed.cleveland.data dataset from the UCI Machine Learning Repository, which contains 303 
 instances and 14 features related to heart disease medication. 
